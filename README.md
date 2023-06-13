@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Théo Gianella. I'm a former PhD candidate in French literature and aspiring developer. Currently, I'm wrapping up a bootcamp in web development at The Hacking Project. I am very curious about all fields of development and am looking to broaden my skills in all facets of programming, with a preference for back-end and DevOps !
+My name is Théo Gianella. I'm a former PhD candidate in French literature and aspiring developer. Currently, I'm wrapping up a bootcamp in web development at The Hacking Project. I am very curious about all fields of development and am looking to widen my skillset, with a preference for back-end and DevOps !
 
 Right now I'm working on my first Node.js package : a small CLI program to easily and smoothly create new React components.
 
