@@ -8,7 +8,7 @@ Apart from that I am currently learning Rust :crab: and WebAssembly, hit me up w
 
 🏭 Production links for my projects:
 
-- [Cinesight 🎞️](https://cinesight.vercel.app/)
+- [Cinesight 🍿](https://cinesight.vercel.app/)
 - [Cookin 🍽️](https://the-cookin-project-7e530903ee90.herokuapp.com/)
 - [Meowth NFT 🐱](https://meowth-nft-4ed16307d768.herokuapp.com/)
 - [Bloc-Notes 🗒️](https://tgianella.github.io/bloc-notes/)
