@@ -4,7 +4,7 @@ My name is Théo Gianella. I'm a former PhD candidate in French literature and u
 
 I freshly released my (humble) first npm package: a small CLI program to easily and smoothly create new React components. You can find it [here](https://www.npmjs.com/package/@tgianella/create-react-component-cli) ! :tada:
 
-Apart from that I am currently learning Rust :crab: and WebAssembly, hit me up with any tips or feedback on my projects !
+Apart from that I am currently learning a few different techs : Rust :crab:, WebAssembly and Express. Hit me up with any tips or feedback on my projects !
 
 🏭 Production links for my projects:
 
