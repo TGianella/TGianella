@@ -13,7 +13,7 @@ Apart from that I am currently learning Rust :crab: and WebAssembly, hit me up w
 - [Meowth NFT 🐱](https://meowth-nft-4ed16307d768.herokuapp.com/)
 - [Bloc-Notes 🗒️](https://tgianella.github.io/bloc-notes/)
 - [Game of life 🧫](https://tgianella.github.io/game-of-life/)
-- [The Gossip Project 💬](https://the-gossip-project-77f559ad5921.herokuapp.com/)
+<!-- - [The Gossip Project 💬](https://the-gossip-project-77f559ad5921.herokuapp.com/) -->
 
 <!--
 **TGianella/TGIanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
