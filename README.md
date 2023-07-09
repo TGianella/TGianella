@@ -13,6 +13,7 @@ Apart from that I am currently learning a few different techs : Rust :crab:, Web
 - [Meowth NFT 🐱](https://meowth-nft-4ed16307d768.herokuapp.com/)
 - [Bloc-Notes 🗒️](https://tgianella.github.io/bloc-notes/)
 - [Game of life 🧫](https://tgianella.github.io/game-of-life/)
+- [Local library 📖](https://locallibrary-express-da3df349d5c6.herokuapp.com/)
 <!-- - [The Gossip Project 💬](https://the-gossip-project-77f559ad5921.herokuapp.com/) -->
 
 <!--
