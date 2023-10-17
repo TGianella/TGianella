@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Théo Gianella. I'm a former PhD candidate in French literature and upcoming developer. I freshly completed a 6 months bootcamp in web development at The Hacking Project. I am very curious about all fields of development and am looking to widen my skillset, with a preference for back-end and DevOps !
+My name is Théo Gianella. I'm a former PhD candidate in French literature and upcoming developer, having completed a 6 months bootcamp in web development at The Hacking Project. I just started my first job as a junior JS developer at [Zenika](https://www.zenika.com/) in Lyon !
 
-I freshly released my (humble) first npm package: a small CLI program to easily and smoothly create new React components. You can find it [here](https://www.npmjs.com/package/@tgianella/create-react-component-cli) ! :tada:
+Lastly I released my (humble) first npm package: a small CLI program to easily and smoothly create new React components. You can find it [here](https://www.npmjs.com/package/@tgianella/create-react-component-cli) ! :tada:
 
-Apart from that I am currently learning a few different techs : Rust :crab:, WebAssembly and Express. Hit me up with any tips or feedback on my projects !
+Currently I am working on honing my JS and react skills, hit me up with any tips or advice you might have ! 📖
 
 🏭 Production links for my projects:
 
