@@ -4,8 +4,6 @@ My name is Théo Gianella. I am a junior web developer at [Zenika](https://www.z
 
 Tech-wise I am working on honing my JS and React skills, hit me up with any tips or advice you might have ! 📖
 
-I am very enthusiastic about cinema, mathematical oddities and good books, as I used to be a French literature teacher.
-
 🏭 Links for my past projects:
 
 - [LifeHash 🪓](https://tgianella.github.io/LifeHash/)
