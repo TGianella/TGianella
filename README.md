@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-My name is Théo Gianella. I'm a former professor of French literature and upcoming developer, having completed a 6 months bootcamp in web development. I just started my first job as a junior JS developer at [Zenika](https://www.zenika.com/) in Lyon !
+My name is Théo Gianella. I am a junior web developer at [Zenika](https://www.zenika.com/) in Lyon ! Currently I work for [Bedrock Streaming](https://bedrockstreaming.com/) on the web application.
 
-Currently I am working on honing my JS and React skills, hit me up with any tips or advice you might have ! 📖
+Tech-wise I am working on honing my JS and React skills, hit me up with any tips or advice you might have ! 📖
+
+I am very enthusiastic about cinema, mathematical oddities and good books, as I used to be a French literature teacher.
 
 🏭 Links for my past projects:
 
+- [LifeHash 🪓](https://tgianella.github.io/LifeHash/)
 - [Game of life 🧫](https://tgianella.github.io/game-of-life/)
 - [Cinesight 🍿](https://cinesight.vercel.app/)
 - [Bloc-Notes 🗒️](https://tgianella.github.io/bloc-notes/)
