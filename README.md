@@ -5,11 +5,11 @@ I am a web developer at [Zenika](https://www.zenika.com/) in Lyon ! Currently I 
 🚀 Browse my past projects:
 
 - ViewTransition demos ([SPA](https://view-transition-demo-inky.vercel.app/)/[MPA](https://view-transition-mpa.vercel.app/)) ⏯️
-<!-- - [NoChatbot 🛑](https://form-generator-chi.vercel.app/) -->
 - [LifeHash 🪓](https://tgianella.github.io/LifeHash/)
 - [Game of life 🧫](https://tgianella.github.io/game-of-life/)
-<!-- - [Cinesight 🍿](https://cinesight.vercel.app/) -->
 - [Bloc-Notes 🗒️](https://tgianella.github.io/bloc-notes/)
+<!-- - [NoChatbot 🛑](https://form-generator-chi.vercel.app/) -->
+<!-- - [Cinesight 🍿](https://cinesight.vercel.app/) -->
 <!-- - [Cookin 🍽️](https://the-cookin-project-7e530903ee90.herokuapp.com/) -->
 <!-- - [Meowth NFT 🐱](https://meowth-nft-4ed16307d768.herokuapp.com/) -->
 <!-- - [Local library 📖](https://locallibrary-express-da3df349d5c6.herokuapp.com/) -->
