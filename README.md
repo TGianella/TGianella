@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-I am a web developer at [Zenika](https://www.zenika.com/) in Lyon ! Currently I work for [Bedrock Streaming](https://bedrockstreaming.com/) on the web applications. I also give talks at tech conferences. You can find all details in my [Bento 🍱](https://bento.me/theo-gianella).
+I am a web developer at [Zenika](https://www.zenika.com/) in Lyon, France ! Currently I work for [Bedrock Streaming](https://bedrockstreaming.com/) on the web applications. I also give talks about web technologies at tech conferences. I'm interested in all things more or less web-related: Javascript runtimes, bundlers, CSS, frameworks, browsers internals...
 
-🚀 Browse my past projects:
+### 🇫🇷 Browse my talks:
+* [CJS, ESM, WTF ?? La folle histoire des modules JavaScript](https://github.com/TGianella/talk-cjs-esm)
+* [L'API ViewTransition : une révolution pour le web ?](https://github.com/TGianella/talk-view-transitions)
+* [Tu te mets combien en responsive CSS ?](https://github.com/jsulpis/talk-responsive-css)
+* [Dessine-moi un mot de passe où le hachage cryptographique pour les nuls](https://github.com/TGianella/slides-fonction-hash)
+* [Comment j'ai trouvé le sens de la vie grâce à WebAssembly](https://github.com/TGianella/slides-jeu-de-la-vie)
+
+### 🚀 Have a look at my past projects:
 
 - ViewTransition demos ([SPA](https://view-transition-demo-inky.vercel.app/)/[MPA](https://view-transition-mpa.vercel.app/)) ⏯️
 - [LifeHash 🪓](https://tgianella.github.io/LifeHash/)
