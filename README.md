@@ -1,6 +1,6 @@
-### Hi there 👋
+I am a web developer at [Zenika](https://www.zenika.com/) in Lyon, France ! Currently I work for [EDF](https://www.edf.fr/) on a Web Components Design System. I also give talks about web technologies at tech conferences and teach different courses, most recently AI-Driven Development. I'm interested in all things more or less web-related: Javascript runtimes, bundlers, CSS, frameworks, browsers internals...
 
-I am a web developer at [Zenika](https://www.zenika.com/) in Lyon, France ! Currently I work for [Bedrock Streaming](https://bedrockstreaming.com/) on the web applications. I also give talks about web technologies at tech conferences. I'm interested in all things more or less web-related: Javascript runtimes, bundlers, CSS, frameworks, browsers internals...
+**Find all my content (articles, talks, photos) on my [personal website](https://tgianella.dev/)!**
 
 ### 🇫🇷 Browse my talks:
 * [CJS, ESM, WTF ?? La folle histoire des modules JavaScript](https://github.com/TGianella/talk-cjs-esm)
