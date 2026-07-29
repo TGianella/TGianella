@@ -3,11 +3,12 @@ I am a web developer at [Zenika](https://www.zenika.com/) in Lyon, France ! Curr
 **Find all my content (articles, talks, photos) on my [personal website](https://tgianella.dev/)!**
 
 ### 🇫🇷 Browse my talks:
-* [CJS, ESM, WTF ?? La folle histoire des modules JavaScript](https://github.com/TGianella/talk-cjs-esm)
-* [L'API ViewTransition : une révolution pour le web ?](https://github.com/TGianella/talk-view-transitions)
-* [Tu te mets combien en responsive CSS ?](https://github.com/jsulpis/talk-responsive-css)
-* [Dessine-moi un mot de passe où le hachage cryptographique pour les nuls](https://github.com/TGianella/slides-fonction-hash)
-* [Comment j'ai trouvé le sens de la vie grâce à WebAssembly](https://github.com/TGianella/slides-jeu-de-la-vie)
+* [Gérer le state d'une application React de A à Z !](https://tgianella.dev/talks/react-state-deep-dive/)
+* [CJS, ESM, WTF ?? La folle histoire des modules JavaScript](https://tgianella.dev/talks/javascript-modules/)
+* [L'API ViewTransition : une révolution pour le web ?](https://tgianella.dev/talks/view-transitions/)
+* [Tu te mets combien en responsive CSS ?](https://tgianella.dev/talks/responsive-css/)
+* [Dessine-moi un mot de passe où le hachage cryptographique pour les nuls](https://tgianella.dev/talks/game-of-life-hash-function/)
+* [Comment j'ai trouvé le sens de la vie grâce à WebAssembly](https://tgianella.dev/talks/web-assembly-game-of-life/)
 
 ### 🚀 Have a look at my past projects:
 
